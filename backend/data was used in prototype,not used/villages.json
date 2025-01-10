@@ -1,0 +1,71 @@
+[ {
+  "id": 1,
+  "name": "Askar Camp",
+  "region": "West Bank",
+  "landArea": 6,
+  "latitude": 32.21491,
+  "longitude": 35.30347,
+  "tags": [
+    "rural",
+    "urban"
+  ]
+},
+  {
+    "id": 2,
+    "name": "Beit Lahiya",
+    "region": "Gaza Strip",
+    "population": 40000,
+    "landArea": 18,
+    "latitude": 31.9822,
+    "longitude": 35.2834,
+    "tags": [
+      "rural"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fara'ah",
+    "region": "West Bank",
+    "landArea": 5,
+    "latitude": 32.2914,
+    "longitude": 35.3379,
+    "tags": [
+      "rural"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Qabalan",
+    "region": "West Bank",
+    "landArea": 12,
+    "latitude": 32.1022,
+    "longitude": 35.2879,
+    "tags": [
+      "rural"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Surda",
+    "region": "West Bank",
+    "population": 1000,
+    "landArea": 6,
+    "latitude": 31.9427,
+    "longitude": 35.203,
+    "tags": [
+      "urban"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "New Village",
+    "region": "Gaza Strip",
+    "population": 1500,
+    "landArea": 7,
+    "latitude": 31.9622,
+    "longitude": 35.2034,
+    "tags": [
+      "urban"
+    ]
+  }
+]

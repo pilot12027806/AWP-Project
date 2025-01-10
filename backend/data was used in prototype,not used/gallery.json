@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "description": "Askar Camp - A rural and urban blend",
+      "url": "https://via.placeholder.com/300x200?text=Askar+Camp",
+      "villageId": 1
+    },
+    {
+      "id": 2,
+      "description": "Askar Camp - Vibrant community life",
+      "url": "https://via.placeholder.com/300x200?text=Community+Life",
+      "villageId": 1
+    },
+    {
+      "id": 3,
+      "description": "Beit Lahiya - Rural beauty",
+      "url": "https://via.placeholder.com/300x200?text=Beit+Lahiya",
+      "villageId": 2
+    },
+    {
+      "id": 4,
+      "description": "Beit Lahiya - Scenic landscapes",
+      "url": "https://via.placeholder.com/300x200?text=Scenic+Landscapes",
+      "villageId": 2
+    },
+    {
+      "id": 5,
+      "description": "Fara'ah - Peaceful village life",
+      "url": "https://via.placeholder.com/300x200?text=Fara'ah",
+      "villageId": 3
+    },
+    {
+      "id": 6,
+      "description": "Fara'ah - Rural tranquility",
+      "url": "https://via.placeholder.com/300x200?text=Tranquility",
+      "villageId": 3
+    },
+    {
+      "id": 7,
+      "description": "Qabalan - A historic village",
+      "url": "https://via.placeholder.com/300x200?text=Qabalan",
+      "villageId": 4
+    },
+    {
+      "id": 8,
+      "description": "Qabalan - Serene views",
+      "url": "https://via.placeholder.com/300x200?text=Serene+Views",
+      "villageId": 4
+    },
+    {
+      "id": 9,
+      "description": "Surda - Urban charm",
+      "url": "https://via.placeholder.com/300x200?text=Surda",
+      "villageId": 5
+    },
+    {
+      "id": 10,
+      "description": "Surda - Bustling streets",
+      "url": "https://via.placeholder.com/300x200?text=Bustling+Streets",
+      "villageId": 5
+    },
+    {
+      "id": 11,
+      "description": "New Village - Emerging urban area",
+      "url": "https://via.placeholder.com/300x200?text=New+Village",
+      "villageId": 6
+    },
+    {
+      "id": 12,
+      "description": "New Village - Modern vibes",
+      "url": "https://via.placeholder.com/300x200?text=Modern+Vibes",
+      "villageId": 6
+    }
+  ]
+  

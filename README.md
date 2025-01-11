@@ -1,4 +1,4 @@
-#Project Setup Instructions <br />
+# Project Setup Instructions <br />
 This Repo offers both frontend and backend files <br />
 to setup the project <br />
 open `CMD` in backend folder <br />
